@@ -2,6 +2,8 @@
 
 I am a PG student pursuing Master's in Data Science from Fergusson College Pune.
 
+I love to solve real world problems using Data and Technology.
+
 Feel free to reach out to me:  &nbsp;
 
 <a href="https://www.linkedin.com/in/harsh502singh/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn" href="https://www.linkedin.com/in/harsh502singh/"></a>

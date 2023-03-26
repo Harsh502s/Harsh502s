@@ -2,7 +2,7 @@
 
 I am a PG student pursuing Master's in Data Science from Fergusson College Pune.
 
-I love to solve real world problems using Data and Technology.
+I like to solve real world problems using Data and Technology.
 
 Feel free to reach out to me:  &nbsp;
 

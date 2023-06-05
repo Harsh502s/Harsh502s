@@ -1,4 +1,4 @@
-### Hi there, I'm Harshit Singh 👋
+<h1 align="center">Hi there, I'm Harshit Singh 👋</h1>
 
 I am a PG student pursuing Master's in Data Science from Fergusson College Pune.
 

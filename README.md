@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Harshit Singh 👋</h1>
 
-I am Data Science and Machine Learning Enthusiast.
+I'm a Data Science and Machine Learning Enthusiast.
 --------------------------
 
 *   🌍  I'm pursuing my Master in Data Science from Fergusson College, Pune.

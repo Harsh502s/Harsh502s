@@ -9,9 +9,11 @@ I'm a Data Science and Machine Learning Enthusiast.
 
 ### Skills
 
+<p align="left"><a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" width="32" height="32" /></a>
+</p>
 
 
 Feel free to reach out to me: 
 
 <p align="left"> <a href="https://www.linkedin.com/in/Harsh502singh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp;
-<a href="https://www.instagram.com/the_cropped_guy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" wifth="32" height="32" alt="Instagram"></a></p>
+<a href="https://www.instagram.com/the_cropped_guy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" height="32"></a></p>

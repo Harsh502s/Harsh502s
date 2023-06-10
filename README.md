@@ -13,5 +13,4 @@ I'm a Data Science and Machine Learning Enthusiast.
 
 Feel free to reach out to me: 
 
-<p align="left"> <a href="https://www.linkedin.com/in/Harsh502singh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
-<a href="https://www.instagram.com/the_cropped_guy/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=Gmail" alt="Email" href="mailto:harsh502singh.com"></a>
+<p align="left"> <a href="https://www.linkedin.com/in/Harsh502singh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p><a href="https://www.instagram.com/the_cropped_guy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" wifth="32" height="32" alt="Instagram"></a>

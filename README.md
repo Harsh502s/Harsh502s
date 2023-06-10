@@ -1,8 +1,13 @@
 <h1 align="center">Hi there, I'm Harshit Singh 👋</h1>
 
-I am a PG student pursuing Master's in Data Science from Fergusson College Pune.
+I am Data Science and Machine Learning Enthusiast.
+--------------------------
 
-I like to solve real world problems using Data and Technology.
+*   🌍  I'm pursuing my Master in Data Science from Fergusson College, Pune.
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='Harsh502s/github.io'>Portfolio</a>
+*   🧠  Currently learning RNN and CNN
+
+### Skills.
 
 Feel free to reach out to me:  &nbsp;
 

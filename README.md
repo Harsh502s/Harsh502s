@@ -11,7 +11,7 @@ I'm a Data Science and Machine Learning Enthusiast.
 
 <p align="left"><a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" width="32" height="32" /></a> &nbsp;
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mysql.svg" width="32" height="32" /></a> &nbsp;
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="32" height="32" /></a> &nbsp;
+<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="32" height="32" /></a> &nbsp;
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="32" height="32" /></a> &nbsp;
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="32" height="32" /></a> &nbsp;
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" height="32" /></a> &nbsp;

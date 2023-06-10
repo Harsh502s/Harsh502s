@@ -11,7 +11,7 @@ I'm a Data Science and Machine Learning Enthusiast.
 
 
 
-Feel free to reach out to me:  &nbsp;
+Feel free to reach out to me: 
 
-<a target='_blank' href="https://www.linkedin.com/in/harsh502singh/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn" href="https://www.linkedin.com/in/harsh502singh/"></a>
-<a href="mailto:harsh502singh@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=Gmail" alt="Email" href="mailto:harsh502singh.com"></a>
+<p align="left"> <a href="https://www.linkedin.com/in/Harsh502singh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+<a href="https://www.instagram.com/the_cropped_guy/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=Gmail" alt="Email" href="mailto:harsh502singh.com"></a>

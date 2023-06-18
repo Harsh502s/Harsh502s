@@ -3,7 +3,7 @@
 I'm a Data Science and Machine Learning Enthusiast.
 --------------------------
 
-*   📖  I'm pursuing my Master in Data Science from Fergusson College, Pune.
+*   📖  I'm pursuing my Master's in Data Science from Fergusson College, Pune.
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href="https://harsh502s.github.io/">Portfolio</a>
 *   🧠  Currently learning RNN and CNN
 

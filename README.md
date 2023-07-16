@@ -25,3 +25,9 @@ I'm a Data Science and Machine Learning Enthusiast.
 
 <p align="left"> <a href="https://www.linkedin.com/in/Harsh502singh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp;
 <a href="https://www.instagram.com/the_cropped_guy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" height="32"></a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh502&show_icons=true&locale=en&layout=compact" alt="Harsh502" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harsh502&show_icons=true&locale=en" alt="Harsh502" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh502&" alt="Harsh502" /></p>

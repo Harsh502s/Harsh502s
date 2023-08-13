@@ -1,27 +1,33 @@
-<h1 align="center">Hi there, I'm Harshit Singh 👋</h1>
+<h1 align="center">Hi 👋, I'm Harshit Singh</h1>
+<h3 align="center">A passionate Data Science and Deep Learning Enthusiast.</h3>
 
-I'm a Data Science and Machine Learning Enthusiast.
---------------------------
+- 🔭 I’m currently working on [Automatic Question Tagging System](https://github.com/Harsh502s/Automatic-Question-Tagging-System)
 
-*   📖  I'm pursuing my Master's in Data Science from Fergusson College, Pune.
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href="https://harsh502s.github.io/">Portfolio</a>
-*   🧠  Currently learning RNN and CNN
+- 🌱 I’m currently learning **RNN, CNN, LLM's**
 
-### Languages & Tools
+- 👨‍💻 All of my projects are available at [Harsh502s.github.io](Harsh502s.github.io)
 
-<p align="left"><a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" width="32" height="32" /></a> &nbsp;
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/mysql.svg" width="32" height="32" /></a> &nbsp;
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="32" height="32" /></a> &nbsp;
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="32" height="32" /></a> &nbsp;
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="32" height="32" /></a> &nbsp;
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="32" height="32" /></a> &nbsp;
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" height="32" /></a> &nbsp;
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" height="32" /></a> &nbsp;
-<a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" height="32" /></a> &nbsp;
+- 💬 Ask me about **Data Science,ML,DL**
+
+- 📫 How to reach me **harsh502singh@gmail.com**
+
+- 📄 Know about my experiences [Harsh502s.github.io](Harsh502s.github.io)
+
+- ⚡ Fun fact **If you don't find me coding or learning new things, you will find me playing basketball or watching anime.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harsh502singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh502singh" height="30" width="40" /></a>
+<a href="https://instagram.com/the_cropped_guy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_cropped_guy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/harsh502singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harsh502singh" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### Feel free to reach out to me: 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh502s&show_icons=true&locale=en&layout=compact" alt="harsh502s" /></p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/Harsh502singh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp;
-<a href="https://www.instagram.com/the_cropped_guy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" height="32"></a></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh502s&show_icons=true&locale=en" alt="harsh502s" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh502s&" alt="harsh502s" /></p>
+

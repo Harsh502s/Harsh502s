@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **RNN, CNN, LLM's**
 
-- 👨‍💻 All of my projects are available at [Harsh502s.github.io](Harsh502s.github.io)
+- 👨‍💻 All of my projects are available at [Harsh502s.github.io](https://harsh502s.github.io/)
 
 - 💬 Ask me about **Data Science,ML,DL**
 

@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **harsh502singh@gmail.com**
 
-- 📄 Know about my experiences [Harsh502s.github.io](Harsh502s.github.io)
-
 - ⚡ Fun fact **If you don't find me coding or learning new things, you will find me playing basketball or watching anime.**
 
 <h3 align="left">Connect with me:</h3>

@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Harsh502s.github.io](https://harsh502s.github.io/)
 
-- 💬 Ask me about **Data Science,ML,DL**
+- 💬 Ask me about **Data Science,ML,DL,NLP**
 
 - 📫 How to reach me **harsh502singh@gmail.com**
 

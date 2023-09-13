@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Singh</h1>
-<h3 align="center">A passionate Data Science and Deep Learning Enthusiast.</h3>
+<h3 align="center">A passionate Data Science, ML, DL and NLP Enthusiast.</h3>
 
 - 🔭 I’m currently working on [Automatic Question Tagging System](https://github.com/Harsh502s/Automatic-Question-Tagging-System)
 

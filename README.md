@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Automatic Question Tagging System](https://github.com/Harsh502s/Automatic-Question-Tagging-System)
 
-- 🌱 I’m currently learning **RNN, CNN, LLM's**
+- 🌱 I’m currently learning **LLM's and Web Dev**
 
 - 👨‍💻 All of my projects are available at [Harsh502s.github.io](https://harsh502s.github.io/)
 

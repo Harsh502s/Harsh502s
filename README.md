@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harshit Singh</h1>
 <h3 align="center">A passionate Data Science, ML, DL and NLP Enthusiast.</h3>
 
-- 🔭 I’m currently working on [Automatic Question Tagging System](https://github.com/Harsh502s/Automatic-Question-Tagging-System)
+- 🔭 I’m currently working on <a href='https://github.com/Harsh502s/Automatic-Question-Tagging-System' target='blank'>Automatic Question Tagging System</a>
 
 - 🌱 I’m currently learning **LLM's and Web Dev**
 
-- 👨‍💻 All of my projects are available at [Harsh502s.github.io](https://harsh502s.github.io/)
+- 👨‍💻 You can see my portfolio here <a href='https://harsh502s.github.io' target='blank'>Portfolio</a>
 
 - 💬 Ask me about **Data Science,ML,DL,NLP**
 

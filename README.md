@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harshit Singh</h1>
 <h3 align="center">A passionate Data Science, ML, DL and NLP Enthusiast.</h3>
 
-- 🔭 I’m currently working on <a href='https://github.com/Harsh502s/Airline-Review-Sentiment-Analysis' target='blank'>Sentiment Analysis</a>
+- 🔭 I’m currently doing my Internship at <a href='https://www.axtria.com/' target='blank'>Axtria- Ingenious Insights</a>.
 
-- 🌱 I’m currently learning **LLM's and Web Dev**
+- 🌱 I’m currently learning **PySpark and AWS**
 
 - 👨‍💻 You can see my portfolio here <a href='https://harsh502s.github.io' target='blank'>Portfolio</a>
 

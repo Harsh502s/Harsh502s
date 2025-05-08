@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harshit Singh</h1>
 <h3 align="center">A passionate Data Science, ML, DL and NLP Enthusiast.</h3>
 
-- 🔭 I’m currently doing my Internship at <a href='https://www.axtria.com/' target='blank'>Axtria- Ingenious Insights</a>.
+- 🔭 I’m currently working at <a href='https://www.axtria.com/' target='blank'>Axtria- Ingenious Insights as a Data Engineeer</a>.
 
-- 🌱 I’m currently learning **PySpark and AWS**
+- 🌱 I’m currently learning **FastAPI and React**
 
 - 👨‍💻 You can see my portfolio here <a href='https://harsh502s.github.io' target='blank'>Portfolio</a>
 
-- 💬 Ask me about **Data Science,ML,DL,NLP**
+- 💬 Ask me about **Data Science,ML,DL,NLP,Flask,Python**
 
 - 📫 How to reach me **harsh502singh@gmail.com**
 

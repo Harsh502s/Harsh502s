@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working at <a href='https://www.axtria.com/' target='blank'>Axtria- Ingenious Insights as a Data Engineeer</a>.
 
-- 🌱 I’m currently learning **FastAPI and React**
-
 - 👨‍💻 You can see my portfolio here <a href='https://harsh502s.github.io' target='blank'>Portfolio</a>
 
-- 💬 Ask me about **Data Science,ML,DL,NLP,Flask,Python**
+- 💬 Ask me about **Data Science, ML, DL, NLP, Flask, Python, Data Engineering**
 
 - 📫 How to reach me **harsh502singh@gmail.com**
 

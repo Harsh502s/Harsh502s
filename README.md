@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Singh</h1>
 <h3 align="center">A passionate Data Science, ML, DL and NLP Enthusiast.</h3>
 
-- 🔭 I’m currently working at <a href='https://www.axtria.com/' target='blank'>Axtria- Ingenious Insights as a Data Engineeer</a>.
+- 🔭 I’m currently working at <a href='https://www.axtria.com/' target='blank'>Axtria- Ingenious Insights</a> as a Data Engineeer.
 
 - 👨‍💻 You can see my portfolio here <a href='https://harsh502s.github.io' target='blank'>Portfolio</a>
 

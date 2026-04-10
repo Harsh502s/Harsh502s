@@ -5,7 +5,7 @@
 
 - 👨‍💻 You can see my portfolio here <a href='https://harsh502s.github.io' target='blank'>Portfolio</a>
 
-- 💬 Ask me about **Data Science, ML, DL, NLP, Flask, Python, Data Engineering**
+- 💬 Ask me about **Data Science, ML, DL, NLP, Python, Data or Backend Engineering**
 
 - 📫 How to reach me **harsh502singh@gmail.com**
 
